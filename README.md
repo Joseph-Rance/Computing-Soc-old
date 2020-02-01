@@ -15,4 +15,5 @@ The folder called 'Rust Presentation' contains the PowerPoint used as well as th
 - Rust: https://repl.it/@KashParty/JoesClubRust
 
 ~Our greatest gratitude to Pratyaksh Sharma for enlightnening us about a superior programming language in a truly magnificent talk.~
+
 *Thanks Prat*
