@@ -20,6 +20,6 @@ The folder called 'Rust Presentation' contains the PowerPoint used as well as th
 
 ## Maximise Presentation
 
-The folder called 'Maximise Presentation' contains the PowerPoint used as well as the python code used in the demonstration. Please note that the python code has been altered to protect users' privacy so will not function, however the machine learning bit should still be functional if you want to look at it.
+The folder called 'Maximise' contains the PowerPoint used as well as the python code used in the demonstration. Please note that the python code has been altered to protect users' privacy so will not function, however the machine learning bit should still be functional if you want to look at it.
 
 I'm not going to stoop so low as to thank myself.
