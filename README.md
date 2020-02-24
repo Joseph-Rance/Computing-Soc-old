@@ -2,6 +2,9 @@
 Repo for projects done in computing society
 
 ## Schedule
+
+# I WILL NOT BE AT PROGRAMMING SOC ON FRIDAY THE 6TH OF MARCH, SO IF ANYONE WANTS TO DO SOMETHING THEN, YOU HAVE TO ORGANISE IT YOURSELVES.
+
 Next week Isaac will be continuing his react tutorial
 
 ## WebGL/OpenGL presentation
