@@ -1,11 +1,12 @@
 # Programming-Soc
 Repo for projects done in computing society
 
-## Schedule
+## Possible talks commming up
+If anyone wants to do a talk please email me (Joe Rance)
 
-# I WILL NOT BE AT PROGRAMMING SOC ON FRIDAY THE 6TH OF MARCH, SO IF ANYONE WANTS TO DO SOMETHING THEN, YOU HAVE TO ORGANISE IT YOURSELVES.
-
-Next week Isaac will be continuing his react tutorial
+ - Continued react talk by Isaac Holt
+ - Talk on what he did at Villier's park by Pratyaksh Sharma (on sentiment analysis of twitter hashtags)
+ - Talk on Unity by Xav
 
 ## WebGL/OpenGL presentation
 
