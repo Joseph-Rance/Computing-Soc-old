@@ -7,6 +7,8 @@ If anyone wants to do a talk please email me (Joe Rance)
  - Continued react talk by Isaac Holt
  - Talk on what he did at Villier's park by Pratyaksh Sharma (on sentiment analysis of twitter hashtags)
  - Talk on Unity by Xav
+ - Talk on UNIX by Peter
+ - Possibly a talk by someone outside of school
 
 ## WebGL/OpenGL presentation
 
