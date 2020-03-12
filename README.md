@@ -1,4 +1,4 @@
-# Programming-Soc
+# Computing-Soc
 Repo for projects done in computing society
 
 ## Possible talks commming up
