@@ -11,9 +11,9 @@ If anyone wants a talk on something or would like to do a talk plz email me (Jos
 27th|Pester Conswasy about Unix
 
 Other things that may come in the future:
-Isaac Holt coninuing his react tutorials
-Xav about Unity
-Possibly a talk from someone who Is not in the school
+ - Isaac Holt coninuing his react tutorials
+ - Xav about Unity
+ - Possibly a talk from someone who Is not in the school
 
 ## WebGL/OpenGL presentation
 
