@@ -2,13 +2,18 @@
 Repo for projects done in computing society
 
 ## Possible talks commming up
-If anyone wants to do a talk please email me (Joe Rance)
+If anyone wants a talk on something or would like to do a talk plz email me (Joseph Rance)
 
- - Continued react talk by Isaac Holt
- - Talk on what he did at Villier's park by Pratyaksh Sharma (on sentiment analysis of twitter hashtags)
- - Talk on Unity by Xav
- - Talk on UNIX by Peter
- - Possibly a talk by someone outside of school
+**Date**|**Talk**
+:-----:|:-----:
+13th|Pratyaksh's talk about villier's park and NLP
+20th|Mathew Titmas about applying to universities
+27th|Pester Conswasy about Unix
+
+Other things that may come in the future:
+Isaac Holt coninuing his react tutorials
+Xav about Unity
+Possibly a talk from someone who Is not in the school
 
 ## WebGL/OpenGL presentation
 
