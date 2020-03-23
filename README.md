@@ -40,4 +40,4 @@ The folder called react contains the whole folder from CSB of the react tutorial
 
 Thanks to Isaac for the tutorial
 
-## Thanks also to Pratyaksh for doing another talk about his time at Villier's park and to Mathew Titmas who I think did a talk on the last friday of term when I wasn't in school
+**Thanks also to Pratyaksh for doing another talk about his time at Villier's park and to Mathew Titmas who I think did a talk on the last friday of term when I wasn't in school**
