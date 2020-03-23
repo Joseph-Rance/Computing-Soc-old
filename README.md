@@ -4,11 +4,7 @@ Repo for projects done in computing society
 ## Possible talks commming up
 If anyone wants a talk on something or would like to do a talk plz email me (Joseph Rance)
 
-**Date**|**Talk**
-:-----:|:-----:
-13th|Pratyaksh's talk about villier's park and NLP
-20th|Mathew Titmas about applying to universities
-27th|Pester Conswasy about Unix
+Peter was going to do a talk on UNIX on Friday but that won't happen due to Covid-19 so whenever school starts again That might happen.
 
 Other things that may come in the future:
  - Isaac Holt coninuing his react tutorials
@@ -43,3 +39,5 @@ I'm not going to stoop so low as to thank myself.
 The folder called react contains the whole folder from CSB of the react tutorial. If you just want the code to use in CSB, it is in SRC/APP.JS.
 
 Thanks to Isaac for the tutorial
+
+## Thanks also to Pratyaksh for doing another talk about his time at Villier's park and to Mathew Titmas who I think did a talk on the last friday of term when I wasn't in school
