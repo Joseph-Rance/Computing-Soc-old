@@ -50,4 +50,4 @@ Here's a screenshot of Peter's demonstration:
 https://drive.google.com/file/d/148nY2i5H4OzDIrZ6eC4NbFupfNZVdScL/view?usp=sharing
 
 If you want to try using the raspberry pi from your computer, here's how to:
-...
+*(still waiting for this from peter)*
