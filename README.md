@@ -41,3 +41,13 @@ The folder called react contains the whole folder from CSB of the react tutorial
 Thanks to Isaac for the tutorial
 
 **Thanks to pratyaksh also for doing a talk on his time at villier's park and his NLP project he did there**
+
+## UNIX presentation
+
+Thanks to Peter for going another great presentation about UNIX, its history and how to use it, in our first online talk. You can find the presentation in the UNIX folder.
+
+Here's a screenshot of Peter's demonstration:
+https://drive.google.com/file/d/148nY2i5H4OzDIrZ6eC4NbFupfNZVdScL/view?usp=sharing
+
+If you want to try using the raspberry pi from your computer, here's how to:
+...
