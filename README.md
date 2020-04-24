@@ -51,3 +51,13 @@ https://drive.google.com/file/d/148nY2i5H4OzDIrZ6eC4NbFupfNZVdScL/view?usp=shari
 
 If you want to try using the raspberry pi from your computer, here's how to:
 *(still waiting for this from peter - sorry)*
+
+## Congratulations to Alex and Akilan for winning the Python v C# debate
+## Congratulations to Mr. Walser and Peter for winning the Linux v Windows debate
+
+## Machine learning tutorial
+
+I hope everyone enjoyed the Machine learning tutorial and that it helped you to get started with ML if you are new to it or gave you a new perspective on it if you have done similar projects before.
+
+Here is a link to the Colab file if you need it:
+https://colab.research.google.com/drive/1sbA8W8Mi8oUsk-dbO0tB-5DQm11PEADP
