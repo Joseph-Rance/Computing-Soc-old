@@ -1,6 +1,9 @@
 # Computing-Soc
 Repo for projects done in computing society
 
+Discord invite link:
+https://discord.gg/BaS7hn
+
 ## Possible talks commming up
 If anyone wants a talk on something or would like to do a talk plz email me (Joseph Rance)
 
