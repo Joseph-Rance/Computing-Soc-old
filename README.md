@@ -4,15 +4,11 @@ Repo for projects done in computing society
 Discord invite link:
 https://discord.gg/BaS7hn
 
-## Possible talks commming up
+## Possible things commming up
+
+ - the much anticipated game making competition. Info can be found on discord or emailed to anyone on the main email thread.
+
 If anyone wants a talk on something or would like to do a talk plz email me (Joseph Rance)
-
-Peter was going to do a talk on UNIX on Friday but that won't happen due to Covid-19 so whenever school starts again That might happen.
-
-Other things that may come in the future:
- - Isaac Holt coninuing his react tutorials
- - Xav about Unity
- - Possibly a talk from someone who Is not in the school
 
 ## WebGL/OpenGL presentation
 
@@ -64,3 +60,7 @@ I hope everyone enjoyed the Machine learning tutorial and that it helped you to 
 
 Here is a link to the Colab file if you need it:
 https://colab.research.google.com/drive/1sbA8W8Mi8oUsk-dbO0tB-5DQm11PEADP
+
+## Unity tutorial
+
+Thanks to Ryan for doing the tutorial on Unity. We rushed through the last bit a little, so you can find the finished project in the files of this repo.
