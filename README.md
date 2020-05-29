@@ -64,3 +64,7 @@ https://colab.research.google.com/drive/1sbA8W8Mi8oUsk-dbO0tB-5DQm11PEADP
 ## Unity tutorial
 
 Thanks to Ryan for doing the tutorial on Unity. We rushed through the last bit a little, so you can find the finished project in the files of this repo.
+
+## Game making competition
+
+Congrats to team AARH for winning the game making competittion. Exe files for the games can be found in the "game making competition" folder of this repo. Other info about the scoring and links can be found in #info in the discord server. 
