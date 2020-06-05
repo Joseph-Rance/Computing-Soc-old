@@ -68,3 +68,11 @@ Thanks to Ryan for doing the tutorial on Unity. We rushed through the last bit a
 ## Game making competition
 
 Congrats to team AARH for winning the game making competittion. Exe files for the games can be found in the "game making competition" folder of this repo. Other info about the scoring and links can be found in #info in the discord server. 
+
+## Pratyaksh's Pathfinding Project
+
+You can read the article at https://bitbybit.web.app. 
+
+You can access the presentation (with controls enabled obviously) at https://docs.google.com/presentation/d/e/2PACX-1vTD8B4f57dOqi_v1VhW8SehQ7grQ8PeXxPYWWqyYTH0DBq2ou01QYjg9OkyQfmUqMRVGbmQjoSxa2fN/pub?start=false&loop=false&delayms=3000
+
+There are two pieces of code that are in the "pathfinding_talk" folder of this repo. There is the original code for the simulation and there is the complete code for the coin change dynamic programming program.
