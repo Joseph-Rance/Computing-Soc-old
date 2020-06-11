@@ -4,10 +4,6 @@ Repo for projects done in computing society
 Discord invite link:
 https://discord.gg/BaS7hn
 
-## Possible things commming up
-
- - the much anticipated game making competition. Info can be found on discord or emailed to anyone on the main email thread.
-
 If anyone wants a talk on something or would like to do a talk plz email me (Joseph Rance)
 
 ## WebGL/OpenGL presentation
