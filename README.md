@@ -72,3 +72,10 @@ You can read the article at https://bitbybit.web.app.
 You can access the presentation (with controls enabled obviously) at https://docs.google.com/presentation/d/e/2PACX-1vTD8B4f57dOqi_v1VhW8SehQ7grQ8PeXxPYWWqyYTH0DBq2ou01QYjg9OkyQfmUqMRVGbmQjoSxa2fN/pub?start=false&loop=false&delayms=3000
 
 There are two pieces of code that are in the "pathfinding_talk" folder of this repo. There is the original code for the simulation and there is the complete code for the coin change dynamic programming program.
+
+## First Programming Challenge
+
+Congrats to Team GONK and thanks to Pratyaksh for making a great wbesite:
+https://comsoc.web.app/competitions
+
+More info can be found on Discord and on the email thread
