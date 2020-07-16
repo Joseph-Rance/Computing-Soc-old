@@ -79,3 +79,11 @@ Congrats to Team GONK and thanks to Pratyaksh for making a great wbesite:
 https://comsoc.web.app/competitions
 
 More info can be found on Discord and on the email thread
+
+## Second Programming Challenge
+
+Congratulations to everyone who took part and came up with some amazing solutions. Thanks again to Pratyaksh for updating the website linked above
+
+## Robotic Arm
+
+We are currently making a robotic arm in Computing Soc. We are using a new Repo for the code, which can be found at: https://github.com/Joseph-Rance/Com-Soc-robotic-arm
