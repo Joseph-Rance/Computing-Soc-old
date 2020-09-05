@@ -6,6 +6,10 @@ https://discord.gg/BaS7hn
 
 If anyone wants a talk on something or would like to do a talk plz email me (Joseph Rance)
 
+# INFO ON NEW SCHOOL YEAR
+
+As we took a break from doing weekly tutorials to do some programming competitions and the robotic arm, we plan on going back to doing some tutorials again. We'll most likely be running from 5 to 6 on Thursday evenings on MS Teams. We'll kick off the academic year with a two or thee week set of talks / turorials on unsupervised object detection. This will be focussed around what we did for the robotic arm project, although we can extend it to differnt uses as well. The plan is for everyone to have the code working by the end of the tutorial.
+
 ## WebGL/OpenGL presentation
 
 To change the image, download the folder called 'Joe Cube'. Then, upload the file you want on the cube and rename it to 'joe5.png'. Then run 'index.html'
