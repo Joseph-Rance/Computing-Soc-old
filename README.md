@@ -9,7 +9,7 @@ If anyone wants a talk on something or would like to do a talk plz email me (Jos
 
 Over the past 6 months, we have been running  weekly events that last for around 1 hour each, which will now be run from 5:00 to 6:00 on Teams (You can either email me and I'll add you to the team or you can use this link: o45hry9). Some of the resources for the events we held are in this repo. In the past, we have held programming workshops, tutorials, competitions, talks and project presentations, so if there is anything you would like to take part in specifically, or if you are interested in any of the contents of this repo and would like to find out more, feel free to email me!
 
-The plan is to begin the academic year with a set of talks/tutorials on the unsupervised object detection algorithm we wrote for the (robotic arm project)[https://github.com/Joseph-Rance/Com-Soc-robotic-arm]. If you would like to attend, The tutorials will be on Thursdays from 5:00 to 6:00 on teams (code: o45hry9), starting on the 24th. Hopefully you will find the content interesting, and, if you want to follow along, will be able to get some functioning code working by the end.
+The plan is to begin the academic year with a set of talks/tutorials on the unsupervised object detection algorithm we wrote for the [robotic arm project](https://github.com/Joseph-Rance/Com-Soc-robotic-arm). If you would like to attend, The tutorials will be on Thursdays from 5:00 to 6:00 on teams (code: o45hry9), starting on the 24th. Hopefully you will find the content interesting, and, if you want to follow along, will be able to get some functioning code working by the end.
 
 ## For year 13s
 
