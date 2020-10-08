@@ -102,3 +102,7 @@ Congratulations to everyone who took part and came up with some amazing solution
 ## Robotic Arm
 
 We are currently making a robotic arm in Computing Soc. We are using a new Repo for the code, which can be found at: https://github.com/Joseph-Rance/Com-Soc-robotic-arm
+
+## Third Programming Challenge
+
+Congratulations to Pratyaksh and Michelle for winning this week's challenge!
