@@ -3,6 +3,8 @@ Repo for projects done in computing society
 
 If anyone wants a talk on something or would like to do a talk plz email me (Joseph Rance)
 
+Some of the links to recodings in older emails have been overwritten and I can't unload the recordings to github, so if you would like a specific recording from Com Soc please email me (joseph)
+
 # INFO ON NEW SCHOOL YEAR
 
 ## For year 12s
