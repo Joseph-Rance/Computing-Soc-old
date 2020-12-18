@@ -9,16 +9,7 @@ If anyone wants a talk on something or would like to do a talk plz email me (Jos
 
 Over the past 6 months, we have been running  weekly events that last for around 1 hour each, which will now be run from 5:00 to 6:00 on Teams (You can either email me and I'll add you to the team or you can use this link: o45hry9). Some of the resources for the events we held are in this repo. In the past, we have held programming workshops, tutorials, competitions, talks and project presentations, so if there is anything you would like to take part in specifically, or if you are interested in any of the contents of this repo and would like to find out more, feel free to email me!
 
-The plan is to begin the academic year with a set of talks/tutorials on the unsupervised object detection algorithm we wrote for the [robotic arm project](https://github.com/Joseph-Rance/Com-Soc-robotic-arm). If you would like to attend, The tutorials will be on Thursdays from 5:00 to 6:00 on teams (code: o45hry9), starting on the 24th. Hopefully you will find the content interesting, and, if you want to follow along, will be able to get some functioning code working by the end.
-
-## For year 13s
-
-As we took a break from doing weekly tutorials to do some programming competitions and the robotic arm, we plan on going back to doing some tutorials again. We'll most likely be running from 5 to 6 on Thursday evenings (first session on the 24th) on MS Teams. We'll kick off the academic year with a tutorial on the algorithms we wrote for unsupervised object detection for the robotic arm. It will probably take more that one session to finish the tutorial, so the tutorial will span a couple of weeks. Hopefully everyone will find it interesting, and I'll try to include some resources on other techniques we considered for if anyone wants to read further into the topic. For anyone who isn't up to date with the robotic arm project, we are still working on it, but the work will be done outside of com soc meetings from now on as a lot of the computing work has been done. Once it is finished, we'll hopefully be able to do a demo of it in one of the sessions, although that won't be any time soon as we can't order parts for a while due to Covid. As always, if anyone has any ideas for things to do after the tutorial, please send them to me!
-
-UPDATE 14/09/2020: WE NOW HAVE A TEAM ON MS TEAMS! MESSAGE ME ON DISCORD OR EMAIL ME IF YOU WANT TO BE ADDED
-UPDATE 17/09/2020: YOU CAN USE THIS CODE TO GET ONTO TEAMS: o45hry9
-
-Discord invite link:
+Discord invite link (y13):
 https://discord.gg/BaS7hn
 
 ## WebGL/OpenGL presentation
